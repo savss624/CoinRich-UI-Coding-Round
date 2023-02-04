@@ -10,11 +10,11 @@ void main() {
 final coinProvider = FutureProvider<Map<String, dynamic>>(
     (ref) async => ref.read(coinServiceProvider).fetchCoinsData());
 
-class HomePage extends ConsumerWidget {
+class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
+  Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
         primaryColor: Colors.grey,
