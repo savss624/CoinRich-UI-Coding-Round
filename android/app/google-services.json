@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192577421972",
+    "project_id": "coinrich-49b48",
+    "storage_bucket": "coinrich-49b48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192577421972:android:d816549354a04de17eea81",
+        "android_client_info": {
+          "package_name": "com.example.coinrich_ui_coding_round"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192577421972-c3bjl3vmji625oblkk6vcnrjm031kqcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6xObwzf5HuI6yS7i5P0kKL5gPULJZ5b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192577421972-c3bjl3vmji625oblkk6vcnrjm031kqcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
